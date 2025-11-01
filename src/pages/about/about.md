@@ -1,10 +1,45 @@
 ---
 title: about
-name: "Cezar Kelso"
-designation: "Senior Detective"
-location: Los Angeles, CA 90001
-pronouns: "he/him/el"
-website: "http://tafutza.hn/kos"
+name: "Vidura (Tony) Gunawardana"
+designation: "Software Engineer"
+location: 192/8 School Ln, Ganemulla Rd. Kadawatha
+pronouns: "he/him"
+website: "https://github.com/TonyRoyze"
 ---
 
-Highly skilled and experienced law enforcement professional with over two decades of service in various specialized units. Adept at conducting complex investigations, coordinating tactical operations, and providing leadership in high-pressure situations. Known for exceptional problem-solving abilities, strategic thinking, and dedication to upholding the law. Seeking opportunities to leverage expertise in a challenging environment where I can continue to make a meaningful impact.
+I am a passionate undergraduate student and indie developer with a deep connection to both sports and music, which have shaped my discipline, creativity, and teamwork. My experiences in competitive sports have strengthened my leadership, time management, and resilience, while my engagement in music has refined my creativity, attention to detail, and ability to collaborate harmoniously with others. As a developer, I enjoy turning ideas into impactful digital solutions, constantly learning and experimenting with new technologies to enhance both functionality and user experience. I thrive in collaborative environments where communication, adaptability, and problem-solving are key, and I take pride in my ability to stay composed and resourceful under pressure. Whether in academics, coding, or creative pursuits, I am committed to continuous growth and delivering excellence in everything I do.
+
+<div class="flex flex-wrap gap-2 my-4"></div>
+
+
+## Technical Skills
+
+<div class="flex flex-wrap gap-2 my-4">
+  <span class="badge badge-outline">C</span>
+  <span class="badge badge-outline">C++</span>
+  <span class="badge badge-outline">C#</span>
+  <span class="badge badge-outline">Python</span>
+  <span class="badge badge-outline">Rust</span>
+  <span class="badge badge-outline">Tauri</span>
+  <span class="badge badge-outline">HTML5</span>
+  <span class="badge badge-outline">CSS</span>
+  <span class="badge badge-outline">Tailwind CSS</span>
+  <span class="badge badge-outline">JavaScript</span>
+  <span class="badge badge-outline">TypeScript</span>
+  <span class="badge badge-outline">Astro</span>
+  <span class="badge badge-outline">React</span>
+  <span class="badge badge-outline">Angular</span>
+  <span class="badge badge-outline">Solid</span>
+</div>
+
+## Soft Skills
+
+<div class="flex flex-wrap gap-2 my-4">
+  <span class="badge badge-outline">Teamwork</span>
+  <span class="badge badge-outline">Time Management</span>
+  <span class="badge badge-outline">Problem Solving</span>
+  <span class="badge badge-outline">Adaptability</span>
+  <span class="badge badge-outline">Communication</span>
+  <span class="badge badge-outline">Leadership</span>
+  <span class="badge badge-outline">Creative Thinking</span>
+</div>

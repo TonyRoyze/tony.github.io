@@ -1,8 +1,8 @@
 ---
-title: DataAir
-url: http://dan.ma/humbe
-tags: ["react", "javaScript", "axios", "HTML", "SCSS", "CSS"]
-date: 2022
+title: Antique Gallery Website
+url: https://r-r-home-gallery.pages.dev/
+tags: ["Web Development", "Responsive Design", "Aesthetic Design", "Astro"]
+date: 2024
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+A responsive website created for an antique gallery, showcasing various antique items with modern web design principles and mobile-first approach.

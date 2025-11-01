@@ -1,15 +1,15 @@
 ---
-title: Bachelor of Science in Criminal Justice
-location: University of California, Los Angeles (UCLA)
-url: http://foeberoz.gm/kuj
-institute: University of California
-date: 1970-1975
+title: Bachelor of Science (Hons.) in Data Science
+location: University of Colombo
+url: https://cmb.ac.lk
+institute: University of Colombo
+date: Since 2023
 tags:
   [
-    "Criminal Justice",
-    "Law Enforcement",
-    "Legal Studies",
-    "Public Safety",
-    "Court System",
+    "Statistics",
+    "Statistical Modelling",
+    "Machine Learning",
+    "Programming",
+    "Analytics",
   ]
 ---

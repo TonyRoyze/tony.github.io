@@ -1,8 +1,8 @@
 ---
-title: Advanced SWAT Tactics and Leadership Training
-location: FBI Academy
-url: http://ni.sb/mehanad
-institute: FBI Academy
-date: 1975-1980
-tags: ["Conflict Resolution", "Strategic Planning", "Risk Assessment", "Firearms Training", "Emergency Response"]
+title: HD in Computing and Software Engineering
+location: Cardiff Metropolitan University
+url: https://cardiffmet.ac.uk
+institute: Cardiff Metropolitan University
+date: 2022 - 2023
+tags: ["Software Engineering", "Programming", "System Design", "Database Management", "Networking", "Web Development", "Mobile Application Development"]
 ---

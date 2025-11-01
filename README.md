@@ -1,111 +1,70 @@
-# Astro-CV-Esquelete
+# Vidura (Tony) Gunawardana - Portfolio
 
-Astro-CV-Esquelete is a free, easy-to-use CV template with a clean design. Just fill in your details and you're ready to go!
+Welcome to my portfolio website! I'm a Software Engineer passionate about creating impactful digital solutions and constantly exploring new technologies.
 
-## Project Structure
+## About Me
 
-     ┣ 📂public
-     ┃ ┣ 📜cv-20240219.pdf
-     ┃ ┣ 📜favicon.webp
-     ┃ ┣ 📜gl_flag_128x.png
-     ┃ ┣ 📜profile.webp
-     ┃ ┣ 📜snap-md.png
-     ┃ ┣ 📜snap_laptop.webp
-     ┃ ┗ 📜snap_mobile.webp
-     ┣ 📂src
-     ┃ ┣ 📂components
-     ┃ ┃ ┣ 📜Card.astro
-     ┃ ┃ ┣ 📜ContactCard.astro
-     ┃ ┃ ┣ 📜Container.astro
-     ┃ ┃ ┣ 📜Footer.astro
-     ┃ ┃ ┗ 📜Header.astro
-     ┃ ┣ 📂layouts
-     ┃ ┃ ┣ 📜AccordionLayout.astro
-     ┃ ┃ ┗ 📜BaseLayout.astro
-     ┃ ┣ 📂pages
-     ┃ ┃ ┣ 📂about
-     ┃ ┃ ┃ ┗ 📜about.md
-     ┃ ┃ ┣ 📂blogs
-     ┃ ┃ ┃ ┗ 📜home-mmouzo.md
-     ┃ ┃ ┣ 📂certificates
-     ┃ ┃ ┃ ┗ 📜backend2022.md
-     ┃ ┃ ┣ 📂contact
-     ┃ ┃ ┃ ┣ 📜email.md
-     ┃ ┃ ┃ ┣ 📜github.md
-     ┃ ┃ ┃ ┣ 📜linkedin.md
-     ┃ ┃ ┃ ┗ 📜telegram.md
-     ┃ ┃ ┣ 📂projects
-     ┃ ┃ ┃ ┗ 📜spotfilm.md
-     ┃ ┃ ┣ 📂studies
-     ┃ ┃ ┃ ┣ 📜dam.md
-     ┃ ┃ ┃ ┗ 📜smr.md
-     ┃ ┃ ┣ 📂works
-     ┃ ┃ ┃ ┣ 📜work1.md
-     ┃ ┃ ┃ ┗ 📜work2.md
-     ┃ ┃ ┗ 📜index.astro
-     ┃ ┗ 📜env.d.ts
-     ┣ 📜.gitattributes
-     ┣ 📜.gitignore
-     ┣ 📜LICENSE
-     ┣ 📜README.md
-     ┣ 📜astro.config.mjs
-     ┣ 📜package-lock.json
-     ┣ 📜package.json
-     ┣ 📜tailwind.config.mjs
-     ┗ 📜tsconfig.json
+I am a passionate undergraduate student and indie developer with a deep connection to both sports and music, which have shaped my discipline, creativity, and teamwork. My experiences in competitive sports have strengthened my leadership, time management, and resilience, while my engagement in music has refined my creativity, attention to detail, and ability to collaborate harmoniously with others.
 
-## Installation
+As a developer, I enjoy turning ideas into impactful digital solutions, constantly learning and experimenting with new technologies to enhance both functionality and user experience. I thrive in collaborative environments where communication, adaptability, and problem-solving are key.
 
-#### Commands
+## Technical Skills
 
-All commands are run from the root of the project, from a terminal:
+**Programming Languages:** C, C++, C#, Python, Rust  
+**Web Technologies:** HTML5, CSS, Tailwind CSS, JavaScript, TypeScript  
+**Frameworks & Tools:** Astro, React, Angular, Solid, Tauri  
 
-| Command         | Action                                      |
-| :-------------- | :------------------------------------------ |
-| `npm install`   | Installs dependencies                       |
-| `npm run dev`   | Starts local dev server at `localhost:4321` |
-| `npm run build` | Build your production site to `./dist/`     |
+## Soft Skills
 
-## Tech Stack
+Teamwork, Time Management, Problem Solving, Adaptability, Communication, Leadership, Creative Thinking
 
-**JAVASCRIPT FRAMEWORKS**
+## Experience
 
-- [Astro](https://astro.build/ "Astro")
+### Indie Developer (Since 2023)
+Working as a freelance developer, I've created responsive websites and web applications with a focus on performance and user experience.
 
-**UI FRAMEWORKS**
+**Key Achievements:**
+- Created a responsive website for an antique gallery
+- Built mobile-first layouts and optimized Lighthouse performance (90+)
+- Implemented reusable UI components with semantic HTML and utility CSS
+- Assisted in the creation of the official SLUSA webportal
+- Collaborated with stakeholders to iterate on features and content
 
-- [TailwindCSS](https://tailwindcss.com/ "TailwindCSS")
-- [daisyUI](https://daisyui.com/ "daisyUI")
+## Education
 
-## Use and editing of content
+### Bachelor of Science (Hons.) in Data Science
+**University of Colombo** (Since 2023)
 
-All content is in Markdown files classified in directories in `/src/pages`
+Pursuing a degree in Data Science with a focus on Statistics, Statistical Modelling, Machine Learning, Programming, and Analytics.
 
-![alt text](https://github.com/mmouzo/astro-cv-esquelete/blob/main/public/snap-md.png?raw=true)
+## Featured Projects
 
-To edit the content simply add, delete or modify the .md files.
+### SLUSA Web Portal
+Contributed to the official SLUSA web portal by assisting with page layouts, improving responsiveness, and reducing layout shift on critical pages. Helped organize content structure.
 
-### Adding or Removing a field
+**Technologies:** UI/UX, Frontend, Performance, Astro  
+[View Project](https://test-deploy-slusa.pages.dev/)
 
-**Add a new field:**
+### Antique Gallery Website
+A responsive website created for an antique gallery, showcasing various antique items with modern web design principles and mobile-first approach.
 
-Go to `Container.astro` in` src/components/`.
+**Technologies:** Web Development, Responsive Design, Aesthetic Design, Astro  
+[View Project](https://r-r-home-gallery.pages.dev/)
 
-To add a new field, add a new `<AccordionLayout />` component with the appropriate properties and the corresponding child component.
+## Achievements & Certificates
 
-**Remove an existing field:**
+- **University Colors for Swimming** (2024) - Recognized outstanding performance and dedication to swimming at the university level
+- Music Certificate (2022)
+- Choir Certificate (2015)
 
-To remove an existing field, simply comment out the `<AccordionLayout />` component of that particular field or delete it.
+## Contact
 
-![alt text](https://github.com/mmouzo/astro-cv-esquelete/blob/main/public/snap-items.png?raw=true)
+Feel free to reach out if you'd like to collaborate or discuss opportunities:
 
-## Demo
+- **Email:** [vidurapr@gmail.com](mailto:vidurapr@gmail.com)
+- **GitHub:** [@TonyRoyze](https://github.com/TonyRoyze)
+- **Phone:** [+94 71 430 7140](tel:+94714307140)
 
-[astro-cv-esquelete](https://astro-cv-esquelete.vercel.app/ "astro-cv-esquelete")
+---
 
- ![alt text](https://github.com/mmouzo/astro-cv-esquelete/blob/main/public/snap_project.webp?raw=true)
-
-## Acknowledgments
-
-I want to thank [@USKhokhar](https://github.com/USKhokhar "@USKhokhar") who did [Astro-Vitae](https://github.com/USKhokhar/astro-vitae "Astro-Vitae") that served as the basis for this project.
-# tony.github.io
+Built with [Astro](https://astro.build/), [TailwindCSS](https://tailwindcss.com/), and [daisyUI](https://daisyui.com/)
