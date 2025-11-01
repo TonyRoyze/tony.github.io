@@ -19,7 +19,7 @@ export default defineConfig({
   output: "static",
   image: {
     service: {
-      entrypoint: 'astro/assets/services/squoosh',
+      entrypoint: 'astro/assets/services/noop',
     }
   },
   // If deploying to a subdirectory, uncomment and set the base path:

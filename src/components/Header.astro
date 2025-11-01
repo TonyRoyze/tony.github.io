@@ -1,8 +1,6 @@
 ---
 import { Icon } from "astro-icon/components";
-import { Image } from "astro:assets";
 import * as about from "../pages/about/about.md";
-import profilePic from "../../public/profile_pic.jpg";
 ---
 
 <header class="mx-auto pt-6 pb-2 relative">
@@ -12,14 +10,12 @@ import profilePic from "../../public/profile_pic.jpg";
     <div
       class="flex-shrink-0 w-20 md:w-24 rounded-full shadow-sm overflow-hidden"
     >
-      <Image
-        src={profilePic}
+      <img
+        src="/profile_pic.jpg"
         alt="Vidura Gunawardana profile picture"
-        class="grayscale-[50] hover:grayscale-0"
-        width={192}
-        height={192}
-        quality={80}
-        format="webp"
+        class="grayscale-[50] hover:grayscale-0 w-20 md:w-24 h-20 md:h-24 rounded-full object-cover"
+        width="192"
+        height="192"
         loading="eager"
       />
     </div>
