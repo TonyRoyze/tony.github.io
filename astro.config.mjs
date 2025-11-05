@@ -22,6 +22,7 @@ export default defineConfig({
       entrypoint: 'astro/assets/services/noop',
     }
   },
-  // If deploying to a subdirectory, uncomment and set the base path:
-  // base: '/repository-name'
+  // Required for GitHub Pages project sites (served at /astro-cv-esquelete)
+  site: 'https://viduragunawardana.github.io/astro-cv-esquelete',
+  base: '/astro-cv-esquelete'
 });
