@@ -7,11 +7,9 @@ pronouns: "he/him"
 website: "https://github.com/TonyRoyze"
 ---
 
-I am a dedicated undergraduate at the University of Colombo and a versatile Independent Developer. My approach to technology is deeply influenced by my background in competitive sports and music that have instilled in me a unique blend of analytical rigor, creative problem solving, and a commitment to collaborative excellence.
+I am an undergraduate student and indie developer with strong interests in accesibility. I enjoy building useful tools and continuously learning new technologies. I adapt quickly, and remain effective under pressure, with a strong commitment to growth and high-quality work.
 
-As a developer, I specialize in building high-performance, user-centric digital solutions. I thrive at the intersection of data science and complex system architecture, constantly exploring new technologies to bridge the gap between sophisticated data analysis and intuitive user experiences. My experience in competitive athletics has forged a mindset of resilience and strategic leadership, while my passion for music continues to refine my attention to detail and ability to work in harmony within diverse teams.
-
-
+</br>
 
 ## Technical Expertise
 
@@ -22,8 +20,10 @@ As a developer, I specialize in building high-performance, user-centric digital 
       <span class="badge badge-outline">TypeScript</span>
       <span class="badge badge-outline">Python</span>
       <span class="badge badge-outline">R</span>
-      <span class="badge badge-outline">Java</span>
+      <span class="badge badge-outline">Swift</span>
       <span class="badge badge-outline">Rust</span>
+      <span class="badge badge-outline">Scala</span>
+      <span class="badge badge-outline">Java</span>
       <span class="badge badge-outline">C++</span>
       <span class="badge badge-outline">C#</span>
     </div>

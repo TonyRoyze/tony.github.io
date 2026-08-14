@@ -8,7 +8,7 @@ const works = await Astro.glob("../pages/works/*.md");
 const projects = await Astro.glob("../pages/projects/*.md");
 const studies = await Astro.glob("../pages/studies/*.md");
 const certificates = await Astro.glob("../pages/certificates/*.md");
-// const blogs = await Astro.glob("../pages/blogs/*.md");
+const blogs = await Astro.glob("../pages/blogs/*.md");
 const contact = await Astro.glob("../pages/contact/*.md");
 const PDF = "/ViduraGunawardana.pdf";
 ---
@@ -90,7 +90,7 @@ const PDF = "/ViduraGunawardana.pdf";
     }
   </AccordionLayout>
 
-  <!-- <AccordionLayout title={"Blogs"} icon={"carbon:pen"}>
+  <AccordionLayout title={"Blog"} icon={"carbon:pen"}>
     {
       blogs.map((item) => {
         return (
@@ -98,13 +98,14 @@ const PDF = "/ViduraGunawardana.pdf";
             title={item.frontmatter.title}
             timeframe={item.frontmatter.date}
             description={item.compiledContent()}
+            tags={item.frontmatter.tags}
             url={item.frontmatter.url}
             url_name={item.frontmatter.url_name}
           />
         );
       })
     }
-  </AccordionLayout> -->
+  </AccordionLayout>
 
   <AccordionLayout title={"Files"} icon={"carbon:volume-file-storage"}>
     <div class="flex justify-center w-full px-2">
